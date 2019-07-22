@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UFT-8
+encoding//src/test/java=UFT-8
+encoding//src/test/java/com/employeeApi/TestCases/TC001_GetAllEmployees.java=ISO-8859-1
+encoding//src/test/java/com/employeeApi/TestCases/TC002_GetSingleEmployee.java=ISO-8859-1
+encoding//src/test/java/com/employeeApi/TestCases/TC003_PostEmployeeRecord.java=ISO-8859-1
+encoding//src/test/java/com/employeeApi/TestCases/TC004_Put_EmployeeRecord.java=ISO-8859-1
+encoding//src/test/java/com/employeeApi/TestCases/TC005_DeleteEmpRecord.java=ISO-8859-1
+encoding//src/test/java/com/employeeApi/base/TestBase.java=ISO-8859-1
+encoding//src/test/java/com/employeeApi/utilities/Listeners.java=ISO-8859-1
+encoding//src/test/java/com/employeeApi/utilities/RestUtils.java=ISO-8859-1
+encoding/<project>=UFT-8

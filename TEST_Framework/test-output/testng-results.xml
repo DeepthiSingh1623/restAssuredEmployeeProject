@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3700" started-at="2019-07-22T03:39:25Z" finished-at="2019-07-22T03:39:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3700" started-at="2019-07-22T03:39:25Z" finished-at="2019-07-22T03:39:29Z">
+      <class name="com.employeeApi.TestCases.TC001_GetAllEmployees">
+        <test-method status="PASS" signature="getAllEmployees()[pri:0, instance:com.employeeApi.TestCases.TC001_GetAllEmployees@11531931]" name="getAllEmployees" is-config="true" duration-ms="3675" started-at="2019-07-22T13:39:25Z" finished-at="2019-07-22T13:39:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllEmployees -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.employeeApi.TestCases.TC001_GetAllEmployees@11531931]" name="setup" is-config="true" duration-ms="0" started-at="2019-07-22T13:39:25Z" finished-at="2019-07-22T13:39:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="CheckResponseBody()[pri:0, instance:com.employeeApi.TestCases.TC001_GetAllEmployees@11531931]" name="CheckResponseBody" duration-ms="12" started-at="2019-07-22T13:39:29Z" finished-at="2019-07-22T13:39:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckResponseBody -->
+        <test-method status="PASS" signature="CheckStatusCode()[pri:0, instance:com.employeeApi.TestCases.TC001_GetAllEmployees@11531931]" name="CheckStatusCode" duration-ms="0" started-at="2019-07-22T13:39:29Z" finished-at="2019-07-22T13:39:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckStatusCode -->
+      </class> <!-- com.employeeApi.TestCases.TC001_GetAllEmployees -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
